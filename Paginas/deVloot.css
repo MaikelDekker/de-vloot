@@ -1,0 +1,76 @@
+#wrapper1
+{
+	position: absolute;
+	background-color: white;
+	width: 800px;
+	height: 1000px;
+	left: 550px;
+	z-index: -2;
+}
+body
+{
+	background-image: url(https://raw.githubusercontent.com/MaikelDekker/de-vloot/master/css/grfx/bg.png);
+	background-repeat: repeat-x;
+}
+h1
+{
+	font-size: 100%;
+	margin-top: -15px;
+}
+a
+{
+	color: white;
+	text-decoration: none;
+	margin-left: 25px;
+	font-size: 50%;
+}
+li
+{
+	text-decoration: none;
+	white-space: nowrap;
+}
+a:hover
+{
+	color: black;
+}
+*
+{
+	font-family: sans-serif;
+}
+ul
+{
+	float:left; clear: left; margin-left: 500px; margin-top: 140px;
+	font-size: 175%;
+}
+p
+{
+	font-size: 60%;
+	margin: 0px;
+}
+
+.Title
+{
+	float: left; clear: left; margin-left: 560px; margin-top: 0px;
+	font-size: 200%;
+}
+.MainText
+{
+	float: left; clear: left; margin-left: 560px; margin-top: 30px;
+	font-size: 175%;
+	width: 750px;
+}
+.ImageLeft
+{
+	 margin: 20px 20px 20px 0px;
+	 float: left;
+}
+.ImageRight
+{
+	margin: 20px 0px 20px 20px;
+	float: right;
+}
+.Menu
+{
+	float:left; clear: left; margin-left: 540px; margin-bottom: 30px; margin-top: 140px;
+	font-size: 175%;
+}
