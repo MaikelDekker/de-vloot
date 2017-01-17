@@ -4,7 +4,7 @@
 	background-color: white;
 	width: 800px;
 	height: 1000px;
-	left: 550px;
+	left: 350px;
 	z-index: -2;
 }
 body
@@ -39,7 +39,7 @@ a:hover
 }
 ul
 {
-	float:left; clear: left; margin-left: 500px; margin-top: 140px;
+	float:left; clear: left; margin-left: 300px; margin-top: 140px;
 	font-size: 175%;
 }
 p
@@ -50,12 +50,12 @@ p
 
 .Title
 {
-	float: left; clear: left; margin-left: 560px; margin-top: 0px;
+	float: left; clear: left; margin-left: 360px; margin-top: 0px;
 	font-size: 200%;
 }
 .MainText
 {
-	float: left; clear: left; margin-left: 560px; margin-top: 30px;
+	float: left; clear: left; margin-left: 360px; margin-top: 30px;
 	font-size: 175%;
 	width: 750px;
 }
@@ -71,6 +71,6 @@ p
 }
 .Menu
 {
-	float:left; clear: left; margin-left: 540px; margin-bottom: 30px; margin-top: 140px;
+	float:left; clear: left; margin-left: 340px; margin-bottom: 30px; margin-top: 140px;
 	font-size: 175%;
 }
